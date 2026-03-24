@@ -17,7 +17,7 @@ Overall, I have Florida at a **78.8% chance of winning**. If I bump the numbers 
 I'm not seeing the math add up as to why this is a favorable strategy...
 
 What could change my mind? New assumptions around:  
--How ESPN calculates win probability
+-How ESPN calculates win probability  
 -The percentage of chaos I'm using (i.e. Florida has such good bigs they should theoretically never give up a FT rebound)  
 -On the flip side, given the first miss FT, would Iowa intentionally miss a second?  
 -If we are quite convinced (as Golden mentioned) that Iowa would go for the 3 killshot, does this change our math?  
