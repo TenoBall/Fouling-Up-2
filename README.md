@@ -12,4 +12,14 @@ Immediate assumptions to quick math our way to a value:
 
 <img src="IMG_5027.png" alt="Fouling Up 2 Initial Worksheet">  
 
-Overall, I have Florida at a **78.8% chance of winning**. If I bump the numbers further to Florida's favor (70% FT shooter, 50% chance to score in regulation, 60% chance to win in OT) then I compute their win percentage at **88.5%**.
+Overall, I have Florida at a **78.8% chance of winning**. If I bump the numbers further to Florida's favor (70% FT shooter, 50% chance to score in regulation, 60% chance to win in OT) then I compute their win percentage at **88.5%**.  
+
+I'm not seeing the math add up as to why this is a favorable strategy...
+
+What could change my mind? New assumptions around:  
+-How ESPN calculates win probability
+-The percentage of chaos I'm using (i.e. Florida has such good bigs they should theoretically never give up a FT rebound)  
+-On the flip side, given the first miss FT, would Iowa intentionally miss a second?  
+-If we are quite convinced (as Golden mentioned) that Iowa would go for the 3 killshot, does this change our math?  
+
+More to come... need data for better probabilities.
