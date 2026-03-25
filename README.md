@@ -22,4 +22,8 @@ What could change my mind? New assumptions around:
 -On the flip side, given the first miss FT, would Iowa intentionally miss a second?  
 -If we are quite convinced (as Golden mentioned) that Iowa would go for the 3 killshot, does this change our math?  
 
-More to come... need data for better probabilities.
+More to come... need data for better probabilities.  
+
+Of course our guy KenPom has developed some info on this: https://kenpom.com/blog/the-guide-to-fouling-when-leading-or-tied/  
+
+More data visuals to come on Wed.
